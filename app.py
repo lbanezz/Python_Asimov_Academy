@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from pages import book_reviews
-
 st.set_page_config(layout="wide")
 
 
